@@ -1,0 +1,4 @@
+baseURL = "https://teruo.dev"
+languageCode = "en-us"
+title = "Teruo Kunihro's site"
+theme = "ananke"
